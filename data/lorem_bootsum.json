@@ -1,0 +1,25 @@
+{
+    "lorem_bootsum": {
+        
+            "1": "Build responsive, mobile-first projects on the web with the world's most popular front-end component library.",
+
+            "2": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
+
+            "3": "Looking to quickly add Bootstrap to your project?",
+
+            "4" : "Use the Bootstrap CDN, provided for free by the folks at MaxCDN.",
+
+            "5": "Using a package manager or need to download the source files?",
+
+            "6": "Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.",
+
+            "7": "Many of our components require the use of JavaScript to function.",
+
+            "8": "Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.",
+
+            "9": "Place the following <script>s near the end of your pages, right before the closing </body> tag, to enable them.",
+
+            "10": "jQuery must come first, then Popper.js, and then our JavaScript plugins."
+
+    }
+}
