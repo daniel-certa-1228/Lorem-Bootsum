@@ -6,31 +6,36 @@ console.log("main.js");
 }
 
 $( document ).ready(function() {
-
-    let bootsumArray = [];
     
-     Bootsum.getBootsum = () => {
-        let bootsum =  $.ajax({url:"../data/lorem_bootsum.json"});
-        return bootsum;
-    };
-
-    Bootsum.loadBootsum = () => {
-        Bootsum.getBootsum().done(function(data) {
-            let bootArray = Object.values(Object.values(data)[0]);
-            // console.log(bootArray);
-            for (let i = 0; i< bootArray.length; i++) {
-                bootsumArray.push(bootArray[i]);
-            } // return bootArray;
-        });
-    };
-    Bootsum.loadBootsum();
-    console.log(`full`, bootsumArray);
-/////////////////////////////////////////////////////
-
     {
-        let random1 = Math.floor(Math.random()*10);
-        console.log(random1);
-        // console.log(Bootsum.returnBootsumArray());
+        Bootsum.loadBootsum = () => {
+
+            let bootsumArray = [];
+
+            $.ajax({url:"../data/lorem_bootsum.json"}).done(bootsumLoadComplete).fail(bootsumLoadFailed);
+
+            function bootsumLoadComplete(json) {
+                bootsumArray = Object.values(Object.values(json)[0]);
+                Bootsum.passBootsum(bootsumArray);
+            }
+
+            function bootsumLoadFailed(error) {
+                console.log(error);
+            }
+        };
+        Bootsum.loadBootsum();
+    }
+    //////////////////////////////////////////////
+    {
+        let bootsumOutput = [];
+        // console.log(bootsumOutput);
+
+        Bootsum.passBootsum = (bootsumArray) => {
+            for (let i = 0; i < bootsumArray.length; i++) {
+                console.log(bootsumArray[i]);
+            }
+        };
+
     }
 
 });
