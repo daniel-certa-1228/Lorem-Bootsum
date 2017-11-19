@@ -17,7 +17,7 @@ function main_lorem() {
         return bootsumArray;
     })
     .then((bootsumArray) => {
-        let bootsum = generators.generateParagraphs(4, bootsumArray);
+        let bootsum = generators.generateParagraphs(5, bootsumArray);
         return bootsum;
     })
     .then((bootsum) => {
