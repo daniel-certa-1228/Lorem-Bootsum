@@ -11,13 +11,13 @@
 
             "5": "Using a package manager or need to download the source files?",
 
-            "6": "Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.",
+            "6": "In need of a button, but not the hefty background colors they bring?",
 
             "7": "Many of our components require the use of JavaScript to function.",
 
             "8": "Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.",
 
-            "9": "Place the following <script>s near the end of your pages, right before the closing </body> tag, to enable them.",
+            "9": "Buttons will appear pressed (with a darker background, darker border, and inset shadow) when active.",
 
             "10": "jQuery must come first, then Popper.js, and then our JavaScript plugins."
 

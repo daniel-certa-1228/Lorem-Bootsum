@@ -17,9 +17,6 @@ loader.loadBootsum()
         return bootsumArray;
     })
     .then((bootsumArray) => {
-        console.log(bootsumArray.length);
-        let random1 = Math.floor(Math.random()*(bootsumArray.length));
-        console.log(bootsumArray[random1]);
-
+        generators.generateParagraphs(5, bootsumArray);
     });
 
