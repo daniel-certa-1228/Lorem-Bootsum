@@ -28,7 +28,8 @@ generators.generateParagraphs = (num, array) => {
         }
         paragraphs += `</p>`;
     }
-    console.log(paragraphs);
+    // console.log(paragraphs);
+    return paragraphs;
 };
 
 module.exports = generators;
