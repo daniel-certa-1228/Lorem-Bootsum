@@ -61,7 +61,104 @@
 
             "29": "Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content.",
 
-            "30": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes."
+            "30": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
 
+            "31": "Bring Bootstrap to life with our optional JavaScript plugins built on jQuery.",
+
+            "32": "Nearly all Bootstrap plugins can be enabled and configured through HTML alone with data attributes (our preferred way of using JavaScript functionality).",
+
+            "33": "To disable the data attribute API, unbind all events on the document namespaced with data-api like so.",
+
+            "34": "Bootstrap provides custom events for most plugins’ unique actions.",
+
+            "35": "All public APIs are single, chainable methods, and return the collection acted upon.",
+
+            "36": "In these circumstances, namespace collisions can occasionally occur.",
+
+            "37": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more.",
+
+            "38": "Bootstrap’s dropdowns, on the other hand, are designed to be generic and applicable to a variety of situations and markup structures.",
+
+            "39": "Bootstrap’s form controls expand on our Rebooted form styles with classes.",
+
+            "40": "Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.",
+
+            "41": "Checkboxes are for selecting one or several options in a list, while radios are for selecting one option from many.",
+
+            "42": "Use these for form layouts that require multiple columns, varied widths, and additional alignment options.",
+
+            "43": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+
+            "44": "Place one add-on or button on either side of an input.",
+
+            "45": "Place any checkbox or radio option within an input group’s addon instead of text.",
+
+            "46": "A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.",
+
+            "47": "The most basic list group is an unordered list with list items and the proper classes.",
+
+            "48": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+
+            "49": "Before getting started with Bootstrap’s modal component, be sure to read the following as our menu options have recently changed.",
+
+            "50": "Modals are built with HTML, CSS, and JavaScript.",
+
+            "51": "Clicking on the modal 'backdrop' will automatically close the modal.",
+
+            "52": "Whenever possible, place your modal HTML in a top-level position to avoid potential interference from other elements.",
+
+            "53": "Documentation and examples for how to use Bootstrap's included navigation components.",
+
+            "54": "It includes some style overrides (for working with lists), some link padding for larger hit areas, and basic disabled styling.",
+
+            "55": "Change the horizontal alignment of your nav with flexbox utilities.",
+
+            "56": "By default, navs are left-aligned, but you can easily change them to center or right aligned.",
+
+            "57": "In the example below, our nav will be stacked on the lowest breakpoint, then adapt to a horizontal layout that fills the available width starting from the small breakpoint.",
+
+            "58": "Note that dynamic tabbed interfaces should not contain dropdown menus, as this causes both usability and accessibility issues.",
+
+            "59": "Includes support for branding, navigation, and more, including support for our collapse plugin.",
+
+            "60": "Read on for an example and list of supported sub-components.",
+
+            "61": "Here’s an example of all the sub-components included in a responsive light-themed navbar that automatically collapses at the lg (large) breakpoint.",
+
+            "62": "Navigation in navbars will also grow to occupy as much horizontal space as possible to keep your navbar contents securely aligned.",
+
+            "63": "Pagination is built with list HTML elements so screen readers can announce the number of available links.",
+
+            "64": "PLooking to use an icon or symbol in place of text for some pagination links?",
+
+            "65": "When triggered from anchors that wrap across multiple lines, popovers will be centered between the anchors’ overall width.",
+
+            "66": "Popovers must be hidden before their corresponding elements have been removed from the DOM.",
+
+            "67": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes.",
+
+            "68": "Include multiple progress bars in a progress component if you need.",
+
+            "69": "Tooltips are opt-in for performance reasons, so you must initialize them yourself.",
+
+            "70": "Triggering tooltips on hidden elements will not work.",
+
+            "71": "The tooltip plugin generates content and markup on demand, and by default places tooltips after their trigger element.",
+
+            "72": "The required markup for a tooltip is only a data attribute and title on the HTML element you wish to have a tooltip.",
+
+            "73": "All API methods are asynchronous and start a transition.",
+
+            "74": "In addition, a method call on a transitioning component will be ignored.",
+
+            "75": "Add classes to an element to remove all borders or some borders.",
+
+            "76": "Quickly and easily clear floated content within a container by adding a clearfix utility.",
+
+            "77": "Without the clearfix the wrapping div would not span around the buttons which would cause a broken layout.",
+
+            "78": "Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+
+            "79": "The display property accepts a handful of values and we support many of them with utility classes."
     }
 }
