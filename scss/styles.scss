@@ -1,9 +1,13 @@
+// a {
+//     color: white;
+// }
+
 .centered {
     text-align: center;
 }
 
 #bootsum-btn {
-    margin-top: 2rem;
+    // margin-top: 1rem;
 }
 
 .jumbotron {
@@ -14,4 +18,13 @@
 
 .indented {
     text-indent: 1rem;
+}
+
+.container {
+    padding: 0 4em 1em;
+}
+
+footer {
+    background-color:#E8ECEF;
+    height: 40px;
 }

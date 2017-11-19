@@ -6,15 +6,12 @@ var generators = {};
 function random_between_4and8() {
     let min = 4;
     let max = 8;
-    // console.log(min, max);
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
-// console.log(random_between_4and8());
 
 function random_num(num) {
     return Math.floor(Math.random()*(num));
 }
-// console.log(random_num(100));
 
 generators.generateParagraphs = (num, array) => {
     let paragraphs = "";
@@ -28,7 +25,6 @@ generators.generateParagraphs = (num, array) => {
         }
         paragraphs += `</p>`;
     }
-    // console.log(paragraphs);
     return paragraphs;
 };
 

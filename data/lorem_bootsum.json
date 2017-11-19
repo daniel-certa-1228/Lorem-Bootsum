@@ -1,25 +1,67 @@
 {
     "lorem_bootsum": {
         
-            "1": "Build responsive, mobile-first projects on the web with the world's most popular front-end component library.",
+            "0": "Build responsive, mobile-first projects on the web with the world's most popular front-end component library.",
 
-            "2": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
+            "1": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
 
-            "3": "Looking to quickly add Bootstrap to your project?",
+            "2": "Looking to quickly add Bootstrap to your project?",
 
-            "4" : "Use the Bootstrap CDN, provided for free by the folks at MaxCDN.",
+            "3" : "Use the Bootstrap CDN, provided for free by the folks at MaxCDN.",
 
-            "5": "Using a package manager or need to download the source files?",
+            "4": "Using a package manager or need to download the source files?",
 
-            "6": "In need of a button, but not the hefty background colors they bring?",
+            "5": "In need of a button, but not the hefty background colors they bring?",
 
-            "7": "Many of our components require the use of JavaScript to function.",
+            "6": "Many of our components require the use of JavaScript to function.",
 
-            "8": "Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.",
+            "7": "Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.",
 
-            "9": "Buttons will appear pressed (with a darker background, darker border, and inset shadow) when active.",
+            "8": "Buttons will appear pressed (with a darker background, darker border, and inset shadow) when active.",
 
-            "10": "jQuery must come first, then Popper.js, and then our JavaScript plugins."
+            "9": "jQuery must come first, then Popper.js, and then our JavaScript plugins.",
+
+            "10": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+
+            "11": "Alerts are available for any length of text, as well as an optional dismiss button.",
+
+            "12": "Using color to add meaning only provides a visual indication, which will not be conveyed to users of assistive technologies – such as screen readers.",
+
+            "13": "Alerts can also contain additional HTML elements like headings, paragraphs and dividers.",
+
+            "14": "Using the alert JavaScript plugin, it’s possible to dismiss any alert inline.",
+
+            "15": "Holy guacamole!",
+
+            "16": "Documentation and examples for badges, our small count and labeling component.",
+
+            "17": "Badges can be used as part of links or buttons to provide a counter.",
+
+            "18": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+
+            "19": "Indicate the current page's location within a navigational hierarchy that automatically adds separators via CSS.",
+
+            "20": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+
+            "21": "In order for assistive technologies (such as screen readers) to convey that a series of buttons is grouped, an appropriate role attribute needs to be provided.",
+
+            "22": "Combine sets of button groups into button toolbars for more complex components.",
+
+            "23": "Feel free to mix input groups with button groups in your toolbars.",
+
+            "24": "Components and options for laying out your Bootstrap project, including wrapping containers, a powerful grid system, a flexible media object, and responsive utility classes.",
+
+            "25": "Containers are the most basic layout element in Bootstrap and are required when using our default grid system.",
+
+            "26": "While containers can be nested, most layouts do not require a nested container.",
+
+            "27": "Bootstrap primarily uses the following media query ranges—or breakpoints—in our source Sass files for our layout, grid system, and components.",
+
+            "28": "Since Bootstrap is developed to be mobile first, we use a handful of media queries to create sensible breakpoints for our layouts and interfaces.",
+
+            "29": "Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content.",
+
+            "30": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes."
 
     }
 }
