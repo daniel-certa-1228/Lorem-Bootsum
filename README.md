@@ -2,7 +2,7 @@
 
 Lorem Bootsum is a simple Lorem generator using random sentences from the Bootstrap documentation.
 
-It is running live at <https://daniel-certa-1228.github.io/Lorem-Bootsum/>¸.
+It is running live at <https://daniel-certa-1228.github.io/Lorem-Bootsum/>.
 
 To run locally:
 
