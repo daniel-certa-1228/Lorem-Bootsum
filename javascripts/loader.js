@@ -1,5 +1,5 @@
 'use strict';
-console.log('loader.js');
+// console.log('loader.js');
 
 var bootsumLoader = {};
 

@@ -1,5 +1,5 @@
 'use strict';
-console.log("main.js");
+// console.log("main.js");
 
 let loader = require("./loader");
 let generators = require("./generators");

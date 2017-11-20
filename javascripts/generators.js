@@ -1,5 +1,5 @@
 'use strict';
-console.log('generators.js');
+// console.log('generators.js');
 
 var generators = {};
 
