@@ -1,5 +1,5 @@
 'use strict';
-console.log('generators.js');
+// console.log('generators.js');
 
 var generators = {};
 
@@ -15,9 +15,10 @@ function random_num(num) {
 
 generators.generateParagraphs = (num, array) => {
     let paragraphs = "";
-    let num_of_sentences = random_between_4and8();
+    
 
     for(let j = 0; j<num; j++) {
+        let num_of_sentences = random_between_4and8();
         paragraphs += `<p class="indented">`;
         for (let i=0; i<num_of_sentences; i++) {
             let randomSentence = random_num(array.length);

@@ -1,5 +1,5 @@
 'use strict';
-console.log('output.js');
+// console.log('output.js');
 
 var output = {};
 

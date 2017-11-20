@@ -159,6 +159,47 @@
 
             "78": "Includes support for some of the more common values, as well as some extras for controlling display when printing.",
 
-            "79": "The display property accepts a handful of values and we support many of them with utility classes."
+            "79": "The display property accepts a handful of values and we support many of them with utility classes.",
+
+            "80": "Create responsive video or slideshow embeds based on the width of the parent by creating an intrinsic ratio that scales on any device.",
+
+            "81": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities",
+
+            "82": "Flex containers and items are able to be modified further with additional flex properties.",
+
+            "83": "Set the direction of flex items in a flex container with direction utilities.",
+
+            "84": "Toggle floats on any element, across any breakpoint, using our responsive float utilities.",
+
+            "85": "These utility classes float an element to the left or right, or disable floating, based on the current viewport size using the CSS float property.",
+
+            "86": "Responsive variations also exist for each float value.",
+
+            "87": "Easily realign text to components with text alignment classes.",
+
+            "88": "For left, right, and center alignment, responsive classes are available that use the same viewport width breakpoints as the grid system.",
+
+            "89": "Easily change the vertical alignment of inline, inline-block, inline-table, and table cell elements.",
+
+            "90": "Please note that vertical-align only affects inline, inline-block, inline-table, and table cell elements.",
+
+            "91": "Control the visibility, without modifying the display, of elements with visibility utilities.",
+
+            "92": "These do not modify the display value at all and are helpful for hiding content from most users, but still keeping them for screen readers.",
+
+            "93": "To enjoy the full potential of Bootstrap and customize it to your needs, use the source files as a part of your project’s bundling process.",
+
+            "94": "For Bootstrap to compile, make sure you install and use the required loaders: sass-loader, postcss-loader with Autoprefixer.",
+
+            "95": "In this case you may use your existing rule for css without any special modifications to webpack config.",
+
+            "96": "Bootstrap uses NPM scripts for its build system.",
+
+            "97": "To use our build system and run our documentation locally, you’ll need a copy of Bootstrap’s source files and Node.",
+
+            "98": "Download and install Node.js, which we use to manage our dependencies.",
+
+            "99": "Install Ruby, install Bundler with gem install bundler, and finally run bundle install."
+            
     }
 }
