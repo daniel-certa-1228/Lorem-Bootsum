@@ -10,6 +10,7 @@ var bootsumArray = [];
 function main_lorem() {
     loader.loadBootsum()
     .then((bootsum) => {
+        bootsumArray.length = 0;
         let boots = Object.values(Object.values(bootsum)[0]);
         for (let i = 0; i < boots.length; i++) {
             bootsumArray.push(boots[i]); 
