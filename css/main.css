@@ -1,0 +1,19 @@
+.centered {
+  text-align: center; }
+
+.jumbotron {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1em; }
+
+.indented {
+  text-indent: 1rem; }
+
+.container {
+  padding: 0 4em 1em; }
+
+footer {
+  background-color: #E8ECEF;
+  height: 40px; }
+
+/*# sourceMappingURL=main.css.map */
