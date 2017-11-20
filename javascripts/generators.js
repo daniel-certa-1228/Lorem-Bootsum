@@ -16,7 +16,6 @@ function random_num(num) {
 generators.generateParagraphs = (num, array) => {
     let paragraphs = "";
     
-
     for(let j = 0; j<num; j++) {
         let num_of_sentences = random_between_4and8();
         paragraphs += `<p class="indented">`;
